@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaTestCenterDialog", "AvaloniaTestCenterDialog\AvaloniaTestCenterDialog.csproj", "{5347F2EC-373A-4B34-9096-ED321D8B5B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5347F2EC-373A-4B34-9096-ED321D8B5B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5347F2EC-373A-4B34-9096-ED321D8B5B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5347F2EC-373A-4B34-9096-ED321D8B5B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5347F2EC-373A-4B34-9096-ED321D8B5B09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F254BA-B781-4353-9485-1AB889CBD320}
+	EndGlobalSection
+EndGlobal

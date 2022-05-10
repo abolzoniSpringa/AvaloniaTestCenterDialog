@@ -1,0 +1,13 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+		WindowState="Maximized"
+        x:Class="AvaloniaTestCenterDialog.MainWindow"
+        Title="AvaloniaTestCenterDialog">
+	<StackPanel>
+		<TextBlock Text="Test" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+		<Button Content="Click me" Click="PopupButton_Click" Width="120" Height="50"></Button>
+	</StackPanel>
+</Window>
